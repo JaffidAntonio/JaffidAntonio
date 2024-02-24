@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on my own.
 - 🌱 I’m currently learning Data Analysis with Python, SQL, and Tableau.
 - 👯 I’m looking to collaborate on projects.
